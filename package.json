@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/TimeTraders/",
+    "build": "vite build --base=/html-css_85_AlexeyHvozduhin/",
     "preview": "vite preview"
   },
   "devDependencies": {
